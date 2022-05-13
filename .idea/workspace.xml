@@ -65,7 +65,7 @@
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.1310212" />
     <property name="project.structure.side.proportion" value="0.18867925" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -226,7 +226,7 @@
       <workItem from="1652142331016" duration="4835000" />
       <workItem from="1652188591915" duration="3614000" />
       <workItem from="1652229325650" duration="36037000" />
-      <workItem from="1652423893203" duration="1438000" />
+      <workItem from="1652423893203" duration="2705000" />
     </task>
     <task id="LOCAL-00001" summary="SSM项目实战：米米商城">
       <created>1652348823191</created>
